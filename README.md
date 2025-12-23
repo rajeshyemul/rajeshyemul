@@ -1,6 +1,6 @@
 # Hi, I’m Rajesh 👋
 
-### Tevhnical Director QE | Quality Engineering Leader | Automation & AI
+### Technical Director QE | Quality Engineering Leader | Automation & AI
 
 I bring 15+ years of experience in Quality Engineering, helping teams move from manual-heavy testing to scalable, automation-first and AI-assisted quality practices.  
 My work spans test strategy, framework architecture, team transformation, and delivery at enterprise scale.
