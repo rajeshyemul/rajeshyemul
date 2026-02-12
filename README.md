@@ -1,55 +1,92 @@
 # Hi, I’m Rajesh 👋
 
-### Technical Director QE | Quality Engineering Leader | Automation & AI
+### Technical Director – Quality Engineering | QE Transformation Leader | Enterprise Automation Strategy | AI-Enabled Quality Systems
 
-I bring 15+ years of experience in Quality Engineering, helping teams move from manual-heavy testing to scalable, automation-first and AI-assisted quality practices.  
-My work spans test strategy, framework architecture, team transformation, and delivery at enterprise scale.
+I lead Quality Engineering transformation initiatives that move organizations from manual-heavy testing to scalable, automation-first, AI-enabled quality ecosystems.
+With 15+ years in QE, I operate at the intersection of strategy, architecture, and delivery — designing systems that improve time-to-market, reduce operational cost, and elevate engineering capability at scale.
 
+My focus is not just building automation — but building sustainable quality systems.
 ---
 
-## 🔧 What I Work On
+## 🔧 What I Lead and Design
 
-- **Web Automation:** Playwright (TypeScript), Cypress, Selenium
-- **API Automation:** REST Assured, ReadyAPI, Postman  
-- **Mobile Automation:** Appium, Espresso, XCUITest
-- **Framework Architecture:** Modular, reusable automation frameworks  
-- **Languages:** TypeScript, Java, Node.js 
-- **CI/CD & Scale:** GitHub Actions, Jenkins, Octopus, Azure, parallel execution strategies  
-- **AI in Testing:** MCP Server integration, Test case generation, accessibility testing, visual testing, impact analysis
-
+- 🏗 Enterprise Automation Strategy
+  Organization-wide automation roadmaps
+  AI-assisted test generation and validation strategies
+  Agent-driven QA workflows for intelligent validation
+  Accessibility & visual validation at scale
+  Test impact analysis and optimization models
+  AI integration aligned to delivery efficiency and cost control
+  
+- 🤖 AI-Enabled Quality Engineering
+  AI-assisted test generation and validation strategies
+  Agent-driven QA workflows for intelligent validation
+  Accessibility & visual validation at scale
+  Test impact analysis and optimization models
+  AI integration aligned to delivery efficiency and cost control
+  
+- ⚙️ Platform & Scale
+  Automation scaling to 5,000+ test cases
+  Parallel execution and distributed CI/CD pipelines
+  QE capability uplift across multi-team environments
+  Reporting strategy and quality observability models
+  Headcount optimization through smart automation design
+  
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Strategic Focus
 
-- Designing **enterprise-grade Playwright + TypeScript frameworks**
-- Enabling **in-sprint automation** and faster time-to-market
-- Scaling automation to **5,000+ test cases** with parallel execution
-- Integrating **AI capabilities** into test creation, analysis, and maintenance
-- Building reusable tooling, templates, and internal accelerators
-- Writing practical, step-by-step technical documentation and blogs
+- Designing enterprise-grade automation frameworks as enablement platforms
+- Embedding AI capabilities into practical QE workflows
+- Reducing delivery friction through structured quality architecture
+- Standardizing automation practices across teams
+- Building internal accelerators and reusable quality assets
+- Aligning QE practices with business-level outcomes
+- Creating structured learning resources for automation engineers
 
 ---
 
 ## 📂 Featured Work
+- 📘 TypeScript Learning for Automation Engineers
 
-- Playwright + TypeScript automation framework templates  
-- AI-assisted utilities for test analysis and validation  
-- CI/CD pipelines and execution orchestration for large test suites  
-- Sample dashboards for test reporting and trend analysis  
+  A structured enablement repository that connects TypeScript fundamentals to scalable automation architecture
+  — designed to uplift engineering capability across teams.
+  Key themes:
+  Type-safe test modeling
+  Async stability design
+  Structured error handling & logging
+  Scalable data-driven frameworks
 
+- AI-assisted QA Initiatives
+  Agent-based automation experimentation
+  Intelligent selector validation models
+  AI-driven analysis for framework optimization
+  Practical AI integration within real delivery workflows
 
 ---
 
 ## ✍️ Writing & Knowledge Sharing
 
-- Medium articles on Playwright, AI in Testing, and framework design
-- Practical guides focused on real-world implementation
-- Mentoring teams on automation strategy and best practices
-- Preparing client-facing proposals and transformation roadmaps
+I share practical insights on:
+  - QE transformation strategy
+  - Scalable automation architecture
+  - AI integration in quality engineering
+  - Automation governance & organizational enablement
+  - Building sustainable test systems
+
+My work bridges executive vision and hands-on technical execution.
 
 ---
 
-## 📫 Let’s Connect
+## 🎯 My Leadership Philosophy
+
+- Quality must scale with engineering velocity.
+- Automation is an ecosystem, not a collection of scripts.
+- Architecture determines long-term cost efficiency.
+- AI should enhance decision-making, not add complexity.
+- Sustainable quality comes from system design, not heroics.
+
+## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/rajesh-yemul-050381/ 
 - **GitHub Pages:** https://rajeshyemul.github.io  
@@ -57,4 +94,4 @@ My work spans test strategy, framework architecture, team transformation, and de
 
 ---
 
-Thanks for stopping by 🙂
+If you're leading automation transformation or exploring AI-enabled quality at scale, I’m always open to meaningful discussions.
