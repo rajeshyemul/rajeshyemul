@@ -10,27 +10,27 @@ My focus is not just building automation — but building sustainable quality sy
 
 ## 🔧 What I Lead and Design
 
-- 🏗 Enterprise Automation Strategy
-  Organization-wide automation roadmaps
-  AI-assisted test generation and validation strategies
-  Agent-driven QA workflows for intelligent validation
-  Accessibility & visual validation at scale
-  Test impact analysis and optimization models
-  AI integration aligned to delivery efficiency and cost control
+# 🏗 Enterprise Automation Strategy
+  - Organization-wide automation roadmaps
+  - AI-assisted test generation and validation strategies
+  - Agent-driven QA workflows for intelligent validation
+  - Accessibility & visual validation at scale
+  - Test impact analysis and optimization models
+  - AI integration aligned to delivery efficiency and cost control
   
-- 🤖 AI-Enabled Quality Engineering
-  AI-assisted test generation and validation strategies
-  Agent-driven QA workflows for intelligent validation
-  Accessibility & visual validation at scale
-  Test impact analysis and optimization models
-  AI integration aligned to delivery efficiency and cost control
+# 🤖 AI-Enabled Quality Engineering
+  - AI-assisted test generation and validation strategies
+  - Agent-driven QA workflows for intelligent validation
+  - Accessibility & visual validation at scale
+  - Test impact analysis and optimization models
+  - AI integration aligned to delivery efficiency and cost control
   
-- ⚙️ Platform & Scale
-  Automation scaling to 5,000+ test cases
-  Parallel execution and distributed CI/CD pipelines
-  QE capability uplift across multi-team environments
-  Reporting strategy and quality observability models
-  Headcount optimization through smart automation design
+# ⚙️ Platform & Scale
+  - Automation scaling to 5,000+ test cases
+  - Parallel execution and distributed CI/CD pipelines
+  - QE capability uplift across multi-team environments
+  - Reporting strategy and quality observability models
+  - Headcount optimization through smart automation design
   
 ---
 
@@ -47,8 +47,7 @@ My focus is not just building automation — but building sustainable quality sy
 ---
 
 ## 📂 Featured Work
-- 📘 TypeScript Learning for Automation Engineers
-
+# 📘 TypeScript Learning for Automation Engineers
   A structured enablement repository that connects TypeScript fundamentals to scalable automation architecture
   — designed to uplift engineering capability across teams.
   Key themes:
@@ -57,7 +56,7 @@ My focus is not just building automation — but building sustainable quality sy
   Structured error handling & logging
   Scalable data-driven frameworks
 
-- AI-assisted QA Initiatives
+# AI-assisted QA Initiatives
   Agent-based automation experimentation
   Intelligent selector validation models
   AI-driven analysis for framework optimization
