@@ -65,7 +65,7 @@ I write about QE transformation, automation architecture, and building quality s
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/rajesh-yemul-050381](https://www.linkedin.com/in/rajesh-yemul-050381/)
+- **LinkedIn:** [linkedin.com/in/rajesh-yemul-050381](https://www.linkedin.com/in/rajesh-yemul/)
 - **Email:** rajesh.yemul@gmail.com
 
 If you are building or scaling a Quality Engineering function and want to think through the architecture, the operating model, or the strategy — I am always open to a good conversation.
