@@ -4,7 +4,7 @@
 
 I lead Quality Engineering as a strategic discipline — not a testing function.
 
-Over 13 years across Retail, E-commerce, and Automotive & Manufacturing, I have built automation ecosystems from the ground up, governed QE portfolios across 30+ engineers and multi-team programs, and driven transformation that moved organizations from manual-heavy delivery to structured, scalable, AI-enabled quality systems.
+Over 13 years across Retail, E-commerce, and Automotive & Manufacturing, I have built automation ecosystems from the ground up, governed QE portfolios across 50+ engineers and multi-team programs, and driven transformation that moved organizations from manual-heavy delivery to structured, scalable, AI-enabled quality systems.
 
 My work sits at the intersection of architecture, engineering leadership, and delivery strategy. The goal is always the same: quality that scales with the organization, not against it.
 
