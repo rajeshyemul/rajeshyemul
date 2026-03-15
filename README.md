@@ -31,8 +31,8 @@ Governing multi-program QE portfolios. Aligning automation strategy to delivery 
 | Repository | What it is |
 |---|---|
 | [quality-engineering-architecture-playbook](https://github.com/rajeshyemul/quality-engineering-architecture-playbook) | Architecture patterns and strategic models for building scalable QE systems — from foundations to AI-enabled automation |
-| [playwright-api-automation-architecture](https://github.com/rajeshyemul/playwright-api-automation-architecture) | Reference architecture for enterprise-grade Playwright API automation with layered service abstraction. Production-ready Playwright + TypeScript API framework — contract testing, schema validation, fixture DI, CI/CD integration |
-| [playwright-ui-automation-framework](https://github.com/rajeshyemul/playwright-ui-automation-framework) | Production-ready Playwright + TypeScript UI framework. Enterprise-grade Playwright TypeScript UI automation framework with Allure reporting and step tracking |
+| [playwright-api-automation-architecture](https://github.com/rajeshyemul/playwright-api-automation-architecture) | Production-ready Playwright + TypeScript API framework — contract testing, schema validation, fixture DI, CI/CD integration |
+| [playwright-ui-automation-framework](https://github.com/rajeshyemul/playwright-ui-automation-framework) | Enterprise-grade Playwright TypeScript UI automation framework with Allure reporting and step tracking |
 | [enterprise-automation-learning-path](https://github.com/rajeshyemul/enterprise-automation-learning-path) | A structured blueprint for SDET and Senior SDET readiness — built from enterprise QE practice |
 | [typescript-learning-examples](https://github.com/rajeshyemul/typescript-learning-examples) | TypeScript fundamentals connected to scalable automation architecture — built for team capability uplift |
 
