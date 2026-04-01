@@ -55,8 +55,8 @@ HTML report showing exactly what ran, in what order, and why it failed.
 | [playwright-api-automation-architecture](https://github.com/rajeshyemul/playwright-api-automation-architecture) | Production-ready Playwright + TypeScript API framework — contract testing, schema validation, fixture DI, CI/CD integration |
 | [playwright-ui-automation-framework](https://github.com/rajeshyemul/playwright-ui-automation-framework) | Enterprise-grade Playwright TypeScript UI automation framework with Allure reporting and step tracking |
 | [enterprise-automation-learning-path](https://github.com/rajeshyemul/enterprise-automation-learning-path) | A structured blueprint for SDET and Senior SDET readiness — built from enterprise QE practice |
-| [playwright-order-manager — Open Source npm Package](https://github.com/rajeshyemul/playwright-order-manager) | About
-Priority-ordered test execution for Playwright with tags, ordered buckets, HTML reports, and programmatic API support.|
+| [playwright-order-manager — Open Source npm Package](https://github.com/rajeshyemul/playwright-order-manager) |
+Priority-ordered test execution for Playwright with tags, ordered buckets, HTML reports, and programmatic API support |
 | [typescript-learning-examples](https://github.com/rajeshyemul/typescript-learning-examples) | TypeScript fundamentals connected to scalable automation architecture — built for team capability uplift |
 
 ---
