@@ -2,7 +2,7 @@
 
 **Technical Director, Quality Engineering**
 
-I lead Quality Engineering as a strategic discipline — not a testing function.
+Quality Engineering Leader focused on designing scalable test automation systems, CI strategies, and AI-driven testing platforms.
 
 With overall 20+ years of working experiecne and over 13 years across Retail, E-commerce, and Automotive & Manufacturing, I have built automation ecosystems from the ground up, governed QE portfolios across 50+ engineers and multi-team programs, and driven transformation that moved organizations from manual-heavy delivery to structured, scalable, AI-enabled quality systems.
 
@@ -24,6 +24,27 @@ Building systems that handle growth. Parallel execution, distributed CI/CD pipel
 **QE Transformation Leadership**
 Governing multi-program QE portfolios. Aligning automation strategy to delivery timelines and business risk. Developing engineers from execution-focused to architecturally-minded. Building the capability, not just the framework.
 
+**Open source tooling for the Playwright ecosystem**
+Creating reusable tools that extend Playwright beyond test execution into test orchestration and system-level optimization. Designed for teams operating at scale, not just individual projects.
+
+---
+
+## 📂 Featured Work
+
+# 📦 playwright-order-manager — Open Source npm Package
+
+A production-grade npm package for priority-ordered test execution in Playwright.
+Lets teams tag tests by priority (`@P1`, `@P2`, `@runFirst`, `@runLast`) and run them
+in order — stopping early when critical tests fail, and generating a self-contained
+HTML report showing exactly what ran, in what order, and why it failed.
+
+- Published on npm · 53 unit tests · CI across Node 18, 20, 22
+- Built entirely in TypeScript with full type exports for consumers
+- Includes CLI (`npx pw-order`), programmatic API, and Playwright fixture integration
+
+**npm:** https://www.npmjs.com/package/playwright-order-manager  
+**Demo project:** https://github.com/rajeshyemul/pw-order-demo
+
 ---
 
 ## Selected Work
@@ -34,6 +55,8 @@ Governing multi-program QE portfolios. Aligning automation strategy to delivery 
 | [playwright-api-automation-architecture](https://github.com/rajeshyemul/playwright-api-automation-architecture) | Production-ready Playwright + TypeScript API framework — contract testing, schema validation, fixture DI, CI/CD integration |
 | [playwright-ui-automation-framework](https://github.com/rajeshyemul/playwright-ui-automation-framework) | Enterprise-grade Playwright TypeScript UI automation framework with Allure reporting and step tracking |
 | [enterprise-automation-learning-path](https://github.com/rajeshyemul/enterprise-automation-learning-path) | A structured blueprint for SDET and Senior SDET readiness — built from enterprise QE practice |
+| [playwright-order-manager — Open Source npm Package](https://github.com/rajeshyemul/playwright-order-manager) | About
+Priority-ordered test execution for Playwright with tags, ordered buckets, HTML reports, and programmatic API support.|
 | [typescript-learning-examples](https://github.com/rajeshyemul/typescript-learning-examples) | TypeScript fundamentals connected to scalable automation architecture — built for team capability uplift |
 
 ---
