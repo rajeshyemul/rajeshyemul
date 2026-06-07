@@ -62,7 +62,7 @@ HTML report showing exactly what ran, in what order, and why it failed.
 
 ## How I Think About Quality Engineering
 
-Quality is not a phase at the end of development. It is a property of the system — designed in, not inspected in.
+Quality is not a phase at the end of development. It is a property of the system - designed in, not inspected in.
 
 The teams I have led do not just run tests. They build systems that make the right test easy to write, fast to run, and trustworthy to act on. That requires architecture decisions, not just tooling choices.
 
@@ -90,4 +90,4 @@ I write about QE transformation, automation architecture, and building quality s
 - **LinkedIn:** [linkedin.com/in/rajesh-yemul-050381](https://www.linkedin.com/in/rajesh-yemul/)
 - **Email:** rajesh.yemul@gmail.com
 
-If you are building or scaling a Quality Engineering function and want to think through the architecture, the operating model, or the strategy — I am always open to a good conversation.
+If you are building or scaling a Quality Engineering function and want to think through the architecture, the operating model, or the strategy - I am always open to a good conversation.
