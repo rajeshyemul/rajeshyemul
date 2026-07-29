@@ -27,7 +27,7 @@ This GitHub is organized around three themes - **Engineering Products**, **Refer
 
 ## What I'm Building Right Now
 
-- Multi-agent Quality Engineering platform - artifact-driven architecture spanning exploration, analysis, design, execution, and autonomous failure investigation
+- Designing an artifact-driven AI-native Quality Engineering platform that combines application exploration, planning, execution, evidence collection, and autonomous failure investigation through coordinated engineering agents.
 - AI-assisted test planning within engineered guardrails
 - A director-level Quality Engineering leadership program
 
@@ -97,4 +97,4 @@ I write about the future of Quality Engineering, AI, and Platform Engineering - 
 - **Medium:** [medium.com/@rajesh.yemul_42550](https://medium.com/@rajesh.yemul_42550)
 - **Email:** rajesh.yemul@gmail.com
 
-If you're interested in Platform Engineering, AI-enabled Quality Engineering, or modern Quality Engineering operating models, I'd be happy to connect and exchange ideas. Quality Engineering is evolving rapidly, and I believe the best ideas emerge through collaboration.
+If you're building AI-enabled Quality Engineering platforms, modernizing enterprise automation, or exploring the future operating model of Quality Engineering, I'd be happy to connect and exchange ideas.
