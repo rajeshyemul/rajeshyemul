@@ -92,7 +92,7 @@ I write about the future of Quality Engineering, AI, and Platform Engineering - 
 
 ## Connect
 
-- **Portfolio:** [rajeshyemul.github.io](https://rajeshyemul.github.io)
+- **Portfolio:** [rajeshyemul.github.io](https://rajeshyemul.github.io), [rajesh-yemul.vercel.app/](https://rajesh-yemul.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/rajesh-yemul](https://www.linkedin.com/in/rajesh-yemul/)
 - **Medium:** [medium.com/@rajesh.yemul_42550](https://medium.com/@rajesh.yemul_42550)
 - **Email:** rajesh.yemul@gmail.com
